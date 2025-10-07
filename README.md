@@ -1,4 +1,4 @@
 # namish-demo
 This is my first git repository 
 <br>
-author - namish MJ
+author - namish MJ (JD)
